@@ -1,8 +1,8 @@
 Coding done for "Collaborative Filtering" from scratch to understand basics
 
-No tensorflow library used for directly obtaining "Collaborative Filtering"
+It is different from Andrew NG version, it is from scratch 
 
-Code is different from AndrewNG version, it is from scratch
+No tensorflow library used for directly obtaining "Collaborative Filtering"
 
 All the functions used are from the course "Andrew NG - ML Specilization":
 
